@@ -17,10 +17,4 @@ python -m venv venv и source venv/Scripts/activate
 - Выполните миграции
 python manage.py makemigrations и py manage.py migrate
 - Запустите сервер py manage.py runserver
-### Данные
-- https://olefoodgram.hopto.org
-- login oleg
-- email oleg@mail.ru
-- password oleg12343
-### Автор
-[Григорьев Олег]
+
